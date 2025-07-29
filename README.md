@@ -1,6 +1,7 @@
 # Alpha-Frontiers-Hexarealm
 
-I love Alpha Frontiers
+I love Alpha Frontiers!
+
 But I hate FantasyHex tiles ( ok, hate is a strong word, but I prefer Hexarealm
 
 The solution
