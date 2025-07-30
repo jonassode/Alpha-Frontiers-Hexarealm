@@ -1,27 +1,41 @@
 
 tilesets-hexarealm.png
-size: 64, 168
+size: 64, 280
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Tiles/Desert
+TileSets/HexaRealm/Tiles/Desert Hill
   rotate: false
   xy: 0, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert2
+TileSets/HexaRealm/Tiles/Desert Hill2
   rotate: false
   xy: 0, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Desert
+  rotate: false
+  xy: 0, 0
+  size: 64, 112
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Desert2
+  rotate: false
+  xy: 0, 56
+  size: 64, 168
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Desert3
   rotate: false
   xy: 0, 112
-  size: 64, 56
+  size: 64, 224
   orig: 64, 56
   offset: 0, 0
   index: -1
