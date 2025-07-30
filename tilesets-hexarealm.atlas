@@ -11,14 +11,14 @@ TileSets/HexaRealm/Tiles/Desert
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert
+TileSets/HexaRealm/Tiles/Desert2
   rotate: false
   xy: 0, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert
+TileSets/HexaRealm/Tiles/Desert3
   rotate: false
   xy: 0, 112
   size: 64, 56
