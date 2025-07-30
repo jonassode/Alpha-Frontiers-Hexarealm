@@ -4,11 +4,9 @@ I love Alpha Frontiers!
 
 But I don't love FantasyHex tiles
 
-The solution
-
-DIY Alpha Frontiers Hexarealm
+The solution Alpha Frontiers Hexarealm
 
 I'm going to start with all the terrain tiles as that'll make the most difference. 
 
-Cheers
+
 
