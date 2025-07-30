@@ -2,7 +2,7 @@
 
 I love Alpha Frontiers!
 
-But I hate FantasyHex tiles ( ok, hate is a strong word, but I prefer Hexarealm )
+But I don't love FantasyHex tiles
 
 The solution
 
