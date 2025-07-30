@@ -1,0 +1,49 @@
+# .github/workflows/create_tilemap.yml
+name: Create Tilemap
+
+# Controls when the action will run. 
+# This example triggers the workflow on push events to the "main" branch.
+# You can change this to run on a schedule, on pull requests, or manually.
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate-tilemap:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Step 1: Check out your repository code
+      # This allows the workflow to access the files in your repo.
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Node.js
+      # We'll use a Node.js-based command-line tool to create the tilemap.
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # Step 3: Install the 'jimp' tool
+      - name: Install dependencies
+        run: npm install jimp
+        
+      # Step 4: Generate the tilemap for hexarealm tilesets
+      - name: Generate tilemap
+        # - shell: 'script -q -e -c "bash {0}"'
+        run: |
+          node ./scripts/atlas.js '../Images.Tilesets/TileSets/HexaRealm' '../tilesets-hexarealm.png'
+
+      # Step 5: Commit the generated files to the repository
+      - name: Commit files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: Update tilemap for tilesets"
+          file_pattern: tilesets-hexarealm.png
