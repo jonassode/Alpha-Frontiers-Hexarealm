@@ -1,0 +1,96 @@
+output_sprite_map.png
+size: 64, 728
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+Tiles/Desert+Hill.png
+  rotate: false
+  xy: 0, 0
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Desert+Hill2.png
+  rotate: false
+  xy: 0, 56
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Desert.png
+  rotate: false
+  xy: 0, 112
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Desert2.png
+  rotate: false
+  xy: 0, 168
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Desert3.png
+  rotate: false
+  xy: 0, 224
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Grassland.png
+  rotate: false
+  xy: 0, 280
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Grassland2.png
+  rotate: false
+  xy: 0, 336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Grassland3.png
+  rotate: false
+  xy: 0, 392
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Plains+Hill.png
+  rotate: false
+  xy: 0, 448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Plains+Hill2.png
+  rotate: false
+  xy: 0, 504
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Plains.png
+  rotate: false
+  xy: 0, 560
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Plains2.png
+  rotate: false
+  xy: 0, 616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tiles/Plains3.png
+  rotate: false
+  xy: 0, 672
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
