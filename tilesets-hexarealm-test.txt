@@ -1,4 +1,4 @@
-output_sprite_map.png
+tilesets-hexarealm.png
 size: 64, 728
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
