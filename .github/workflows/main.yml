@@ -39,7 +39,7 @@ jobs:
         # - shell: 'script -q -e -c "bash {0}"'
         run: |
           node ./scripts/atlas.js '../Images.Tilesets/TileSets/HexaRealm' '../tilesets-hexarealm.png'
-          node ./scripts/generate_atlas_text.js '../Images.Tilesets/TileSets/HexaRealm' '../tilesets-hexarealm-test.txt' 'tilesets-hexarealm.png'
+          node ./scripts/generate_atlas_text.js '../Images.Tilesets/TileSets/HexaRealm' '../tilesets-hexarealm-test.txt' 'tilesets-hexarealm.png' 'TileSets/HexaRealm/'
 
       # Step 5: Commit the generated files to the repository
       - name: Commit files
