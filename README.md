@@ -25,9 +25,10 @@ The plan is to where possible take the tiles from Unciv and restyle them using t
 - Plains & Plains Hills - Complete
 - Grasslands & Plains Hills - Complete
 
-# Todo
--   Oasis 
-- Forest and Jungle 
+# Planned work
+- Oasis 
+- Forest
+- Jungle 
 - Mycelin
 - Miasma 
 - Tundra 
