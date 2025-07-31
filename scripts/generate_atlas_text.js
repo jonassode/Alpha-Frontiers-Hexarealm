@@ -113,8 +113,10 @@ async function generateAtlasTextFile() {
 
         // Add information for each image
         for (const img of imageData) {
-            const relativePath = path.relative(imageDirectory, img.path).replace(/\\/g, '/'); // Use relative path and standardize slashes
-            outputContent += `${prependPath}${relativePath}\n`; // Prepend the new parameter here
+            // Get the relative path from the imageDirectory, standardize slashes, and then remove the extension
+            const relativePathWithExtension = path.relative(imageDirectory, img.path).replace(/\\/g, '/');
+            const relativePathWithoutExtension = relativePathWithExtension.substring(0, relativePathWithExtension.lastIndexOf('.'));
+            outputContent += `${prependPath}${relativePathWithoutExtension}\n`; // Prepend the new parameter here
             outputContent += `  rotate: false\n`;
             outputContent += `  xy: 0, ${yOffset}\n`;
             outputContent += `  size: ${img.width}, ${img.height}\n`;
