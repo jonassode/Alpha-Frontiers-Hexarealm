@@ -3,91 +3,91 @@ size: 64, 728
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Tiles/Desert+Hill.png
+TileSets/HexaRealm/Tiles/Desert+Hill
   rotate: false
   xy: 0, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert+Hill2.png
+TileSets/HexaRealm/Tiles/Desert+Hill2
   rotate: false
   xy: 0, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert.png
+TileSets/HexaRealm/Tiles/Desert
   rotate: false
   xy: 0, 112
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert2.png
+TileSets/HexaRealm/Tiles/Desert2
   rotate: false
   xy: 0, 168
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert3.png
+TileSets/HexaRealm/Tiles/Desert3
   rotate: false
   xy: 0, 224
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland.png
+TileSets/HexaRealm/Tiles/Grassland
   rotate: false
   xy: 0, 280
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland2.png
+TileSets/HexaRealm/Tiles/Grassland2
   rotate: false
   xy: 0, 336
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland3.png
+TileSets/HexaRealm/Tiles/Grassland3
   rotate: false
   xy: 0, 392
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains+Hill.png
+TileSets/HexaRealm/Tiles/Plains+Hill
   rotate: false
   xy: 0, 448
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains+Hill2.png
+TileSets/HexaRealm/Tiles/Plains+Hill2
   rotate: false
   xy: 0, 504
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains.png
+TileSets/HexaRealm/Tiles/Plains
   rotate: false
   xy: 0, 560
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains2.png
+TileSets/HexaRealm/Tiles/Plains2
   rotate: false
   xy: 0, 616
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains3.png
+TileSets/HexaRealm/Tiles/Plains3
   rotate: false
   xy: 0, 672
   size: 64, 56
