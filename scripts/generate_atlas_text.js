@@ -8,8 +8,9 @@ const args = process.argv.slice(2);
 // Check if image directory and output file name are provided
 if (args.length < 2) {
     console.error('Error: Both image directory and output file name must be provided as command-line arguments.');
-    console.error('Usage: node generate_atlas_text.js <image_directory_path> <output_text_file_name> [output_image_name_for_reference]');
+    console.error('Usage: node generate_atlas_text.js <image_directory_path> <output_text_file_name> [output_image_name_for_reference] [prepend_path]');
     console.error('The third optional argument specifies the image file name that the text file will reference.');
+    console.error('The fourth optional argument specifies a path to prepend to each image entry in the output text file.');
     process.exit(1); // Exit with an error code
 }
 
@@ -17,6 +18,8 @@ const inputImageDirectory = args[0];
 const outputFileName = args[1];
 // Optional third argument for the image file name to reference in the text file
 const outputImageReferenceName = args[2] || 'output_sprite_map.png'; 
+// Optional fourth argument for a path to prepend to each image entry
+const prependPath = args[3] ? args[3].replace(/\\/g, '/') + '/' : ''; // Standardize slashes and add trailing slash if present
 
 // Define the directory where your source images are located.
 const imageDirectory = path.join(__dirname, inputImageDirectory);
@@ -111,7 +114,7 @@ async function generateAtlasTextFile() {
         // Add information for each image
         for (const img of imageData) {
             const relativePath = path.relative(imageDirectory, img.path).replace(/\\/g, '/'); // Use relative path and standardize slashes
-            outputContent += `${relativePath}\n`;
+            outputContent += `${prependPath}${relativePath}\n`; // Prepend the new parameter here
             outputContent += `  rotate: false\n`;
             outputContent += `  xy: 0, ${yOffset}\n`;
             outputContent += `  size: ${img.width}, ${img.height}\n`;
