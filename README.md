@@ -4,7 +4,7 @@ I love Alpha Frontiers!
 
 But I do not love FantasyHex tiles
 
-The solution Alpha Frontiers Hexarealm
+The solution? Alpha Frontiers Hexarealm!
 
 # Goal
 The goal is that when you are playing Hexarealm it feels like a consistent sci-fi experience
@@ -21,10 +21,17 @@ And with any buildings that look out of place
 The plan is to where possible take the tiles from Unciv and restyle them using the colour schemes from Alpha Frontiers Fantasyhex
 
 # Progress 
-- Desert Tiles - In progress
-- Plain - Not started
-- Grasslands - Not Started
-- Mycelin - Not started
-- Miasma - Not started
+- Desert & Destert Hills - Complete
+- Plains & Plains Hills - Complete
+- Grasslands & Plains Hills - Complete
+
+# Todo
+-   Oasis 
+- Forest and Jungle 
+- Mycelin
+- Miasma 
+- Tundra 
+- City Centre
+- Barbarian Camp/Xeno Hive 
 
 Anything else - Not started
