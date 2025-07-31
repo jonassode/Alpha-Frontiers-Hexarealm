@@ -1,5 +1,5 @@
 tilesets-hexarealm.png
-size: 64, 952
+size: 64, 1008
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -87,37 +87,44 @@ TileSets/HexaRealm/Tiles/Mycelium
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains+Hill
+TileSets/HexaRealm/Tiles/Oasis
   rotate: false
   xy: 0, 672
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains+Hill2
+TileSets/HexaRealm/Tiles/Plains+Hill
   rotate: false
   xy: 0, 728
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains
+TileSets/HexaRealm/Tiles/Plains+Hill2
   rotate: false
   xy: 0, 784
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains2
+TileSets/HexaRealm/Tiles/Plains
   rotate: false
   xy: 0, 840
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains3
+TileSets/HexaRealm/Tiles/Plains2
   rotate: false
   xy: 0, 896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plains3
+  rotate: false
+  xy: 0, 952
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
