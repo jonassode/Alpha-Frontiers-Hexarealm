@@ -47,5 +47,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: "chore: Update tilemap for tilesets"
-          file_pattern: tilesets-hexarealm.png, tilesets-hexarealm.png
+          file_pattern: tilesets-hexarealm.png, tilesets-hexarealm-test.txt
 
