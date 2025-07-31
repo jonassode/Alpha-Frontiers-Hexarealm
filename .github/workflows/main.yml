@@ -35,11 +35,11 @@ jobs:
         run: npm install jimp
         
       # Step 4: Generate the tilemap for hexarealm tilesets
-      - name: Generate tilemap
+      - name: Generate tilemap and atlas file
         # - shell: 'script -q -e -c "bash {0}"'
         run: |
           node ./scripts/atlas.js '../Images.Tilesets/TileSets/HexaRealm' '../tilesets-hexarealm.png'
-          node ./scripts/generate_atlas_text.js '../Images.Tilesets/TileSets/HexaRealm' '../tilesets-hexarealm-test.txt' 'tilesets-hexarealm.png' 'TileSets/HexaRealm'
+          node ./scripts/generate_atlas_text.js '../Images.Tilesets/TileSets/HexaRealm' '../tilesets-hexarealm.atlas' 'tilesets-hexarealm.png' 'TileSets/HexaRealm'
 
       # Step 5: Commit the generated files to the repository
       - name: Commit files
@@ -47,5 +47,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: "chore: Update tilemap for tilesets"
-          file_pattern: tilesets-hexarealm.png tilesets-hexarealm-test.txt
+          file_pattern: tilesets-hexarealm.png tilesets-hexarealm.atlas
 
