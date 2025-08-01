@@ -21,13 +21,13 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 # Progress 
 ## Phase 1 - Terrain Tiles
 ### Completed
-- Desert, Desert Hill, Oasis
+- Desert, Desert Hill, Oasis, Flood Plains
 - Plains, Plains Hill
 - Grassland, Grassland Hill
 - Mycelin, Mycelin Hills
 
 ### Planned work
-- Flood Plains
+- Marsh
 - Forest
 - Jungle 
 - Miasma 
