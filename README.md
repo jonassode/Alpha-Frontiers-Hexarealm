@@ -23,7 +23,7 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 ### Completed
 - Desert, Desert Hill, Oasis
 - Plains, Plains Hill
-- Grassland & Grassland Hill
+- Grassland, Grassland Hill
 - Mycelin, Mycelin Hills
 
 ### Planned work
