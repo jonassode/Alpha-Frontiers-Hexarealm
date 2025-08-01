@@ -19,18 +19,32 @@ The plan is to where possible take the tiles from Unciv and restyle them using t
 At the moment I'm not planning on upscaling anything that does work, like resource tiles, but we'll see in the future.
 
 # Progress 
+## Phase 1 - Terrain Tiles
 - Desert & Destert Hills - Complete
 - Plains & Plains Hills - Complete
 - Grasslands & Plains Hills - Complete
+- Oasis - Complete
+- Mycelin & Hills  - Ok for now
 
-# Planned work
-- Oasis 
+### Planned work
 - Forest
 - Jungle 
-- Mycelin
 - Miasma 
-- Tundra 
+- Tundra
+
+## Phase 1b - Basic building
+### Todo
 - City Centre
 - Barbarian Camp/Xeno Hive 
 
-Anything else - Not started
+## Phase 2 - Land resources
+- Not started
+
+## Phase 3 - Water terrain, including borders and rivers
+- Not started
+
+## Phase 4 - Water resources
+- Not started
+
+## Phase 5 - Remaining buildings/Anything else
+- Not started
