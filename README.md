@@ -20,11 +20,11 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 
 # Progress 
 ## Phase 1 - Terrain Tiles
-- Desert & Destert Hills - Complete
-- Plains & Plains Hills - Complete
-- Grasslands & Plains Hills - Complete
-- Oasis - Complete
-- Mycelin & Hills  - Ok for now
+- Desert & Destert Hills ✅
+- Plains & Plains Hills ✅
+- Grasslands & Plains Hills ✅
+- Oasis - ✅
+- Mycelin & Hills  - Ok for now, might revisit later
 
 ### Planned work
 - Forest
