@@ -27,10 +27,12 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 - Mycelin, Mycelin Hills
 
 ### Planned work
+- Flood Plains
 - Forest
 - Jungle 
 - Miasma 
 - Tundra
+- Lakes
 
 ## Phase 1b - Basic building
 ### Todo
