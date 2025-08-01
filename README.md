@@ -22,20 +22,19 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 ## Phase 1 - Terrain Tiles
 ### Completed
 - Desert, Desert Hill, Oasis, Flood Plains
-- Plains, Plains Hill, w. Forest
-- Grassland, Grassland Hill, w. Forest
+- Plains, Plains Hill, w. Forest, w. Jungle
+- Grassland, Grassland Hill, w. Forest, w. Jungle
 - Mycelin, Mycelin Hills
 - Marsh
 - Lakes, border look funny though
 
 ### Planned work
 
-- Jungle on Plains, Grasslands, Mycelin 
+- Jungle, Forest on Mycelin, inc Forest Hills
 - Tundra, Hills, w. forest
-- Lakes, borders look funny though
+- Lakes borders
 
-
-## Phase 1b - Basic building
+## Phase 1b - Basic buildings
 ### Todo
 - City Centre
 - Barbarian Camp/Xeno Hive 
