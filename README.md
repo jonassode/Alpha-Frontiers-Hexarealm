@@ -22,17 +22,18 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 ## Phase 1 - Terrain Tiles
 ### Completed
 - Desert, Desert Hill, Oasis, Flood Plains
-- Plains, Plains Hill
-- Grassland, Grassland Hill
+- Plains, Plains Hill, w. Forest
+- Grassland, Grassland Hill, w. Forest
 - Mycelin, Mycelin Hills
+- Marsh
+- Lakes, border look funny though
 
 ### Planned work
-- Marsh
-- Forest
-- Jungle 
-- Miasma 
-- Tundra
-- Lakes
+
+- Jungle on Plains, Grasslands, Mycelin 
+- Tundra, Hills, w. forest
+- Lakes, borders look funny though
+
 
 ## Phase 1b - Basic building
 ### Todo
