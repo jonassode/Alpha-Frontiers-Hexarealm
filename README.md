@@ -34,8 +34,8 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 - Tundra, Hills, w. forest
 - Lakes borders
 
-## Phase 1b - Basic buildings
-### Todo
+### Phase 1b - Basic buildings
+#### Todo
 - City Centre
 - Barbarian Camp/Xeno Hive 
 
