@@ -27,10 +27,10 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 - Mycelin, Mycelin Hills
 - Marsh
 - Lakes, border look funny though
+- Jungle, Forest on Mycelin, inc Forest Hills
 
 ### Planned work
 
-- Jungle, Forest on Mycelin, inc Forest Hills
 - Tundra, Hills, w. forest
 - Lakes borders
 
