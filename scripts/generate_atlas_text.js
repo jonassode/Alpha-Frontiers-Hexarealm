@@ -8,18 +8,17 @@ const args = process.argv.slice(2);
 // Check if image directory and output file name are provided
 if (args.length < 2) {
     console.error('Error: Both image directory and output file name must be provided as command-line arguments.');
-    console.error('Usage: node generate_atlas_text.js <image_directory_path> <output_text_file_name> [output_image_name_for_reference] [prepend_path]');
-    console.error('The third optional argument specifies the image file name that the text file will reference.');
-    console.error('The fourth optional argument specifies a path to prepend to each image entry in the output text file.');
+    console.error('Usage: node generate_atlas_text.js <image_directory_path> <output_text_file_name> [prepend_path]');
+    console.error('The third optional argument specifies a path to prepend to each image entry in the output text file.');
     process.exit(1); // Exit with an error code
 }
 
 const inputImageDirectory = args[0];
 const outputFileName = args[1];
-// Optional third argument for the image file name to reference in the text file
-const outputImageReferenceName = args[2] || 'output_sprite_map.png'; 
-// Optional fourth argument for a path to prepend to each image entry
-const prependPath = args[3] ? args[3].replace(/\\/g, '/') + '/' : ''; // Standardize slashes and add trailing slash if present
+// The output image reference name is now derived from the outputFileName
+const outputImageReferenceName = path.basename(outputFileName, path.extname(outputFileName)) + '.png'; 
+// Optional third argument for a path to prepend to each image entry
+const prependPath = args[2] ? args[2].replace(/\\/g, '/') + '/' : ''; // Standardize slashes and add trailing slash if present
 
 // Define the directory where your source images are located.
 const imageDirectory = path.join(__dirname, inputImageDirectory);
