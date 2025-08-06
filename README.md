@@ -7,7 +7,7 @@ But I do not love FantasyHex tiles
 The solution? Alpha Frontiers Hexarealm!
 
 # Goal
-The goal for this mod is that when you are playing Alpha Frontiers using the Hexarealm tileset it feels like a consistent sci-fi experience
+The goal for this mod is that when you are playing Alpha Frontiers using the Hexarealm tileset it feels like a consistent sci-fi experience, exploring and colonising an alien planet.
 
 # Process
 I'm going to start with the terrain tiles as that'll make the most difference. 
