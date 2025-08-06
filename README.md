@@ -33,6 +33,7 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 
 - Tundra, Hills, w. forest
 - Lakes borders
+- Atoll
 
 ### Phase 1b - Basic buildings
 #### Todo
@@ -42,7 +43,7 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 ## Phase 2 - Land resources
 - Not started
 
-## Phase 3 - Water terrain, including borders and rivers
+## Phase 3 - Water tiles, including borders and rivers
 - Not started
 
 ## Phase 4 - Water resources
