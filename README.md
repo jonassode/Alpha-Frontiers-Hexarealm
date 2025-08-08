@@ -26,19 +26,19 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 - Grassland, Grassland Hill, w. Forest, w. Jungle
 - Mycelin, Mycelin Hills
 - Marsh
-- Lakes, border look funny though
+- Lakes, borders not working
 - Jungle, Forest on Mycelin, inc Forest Hills
+- Atoll
 
 ### Planned work
 
 - Tundra, Hills, w. forest
 - Lakes borders
-- Atoll
 
 ### Phase 1b - Basic buildings
-#### Todo
-- City Centre
-- Barbarian Camp/Xeno Hive 
+- City Centre - In progress
+- Barbarian Camp/Xeno Hive - Done
+- Barbarian Camp/Xeno Hive on Snow - Done
 
 ## Phase 2 - Land resources
 - Not started
