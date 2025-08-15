@@ -3,7 +3,7 @@ size: 64, 1960
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Edges/Edges /Fresh-Lakes/Fresh-Lakes-Mountain-Top
+TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-Top
   rotate: false
   xy: 0, 0
   size: 64, 56
