@@ -45,7 +45,7 @@ TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mycelium-TopRight
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Edges/Canal-Coast-BottomRight
+TileSets/HexaRealm/Edges/Canal-Coast/Canal-Coast-BottomRight
   rotate: false
   xy: 0, 336
   size: 64, 56
