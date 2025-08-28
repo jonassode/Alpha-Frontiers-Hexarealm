@@ -1,5 +1,5 @@
 tilesets-hexarealm.png
-size: 64, 7336
+size: 64, 7728
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -675,247 +675,296 @@ TileSets/HexaRealm/Edges/Inflow-Canal/Inflow-Canal-Coast-TopRight
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Atoll
+TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-Bottom
   rotate: false
   xy: 0, 5376
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Barbarian encampment
+TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-BottomLeft
   rotate: false
   xy: 0, 5432
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Barbarian encampmentT
+TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-BottomRight
   rotate: false
   xy: 0, 5488
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Canal
+TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-Top
   rotate: false
   xy: 0, 5544
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/City center
+TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-TopLeft
   rotate: false
   xy: 0, 5600
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert+Hill
+TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-TopRight
   rotate: false
   xy: 0, 5656
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert+Hill2
+TileSets/HexaRealm/Edges/Wall/Wall-Canal-XXX-BottomRight
   rotate: false
   xy: 0, 5712
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert
+TileSets/HexaRealm/Tiles/Atoll
   rotate: false
   xy: 0, 5768
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert2
+TileSets/HexaRealm/Tiles/Barbarian encampment
   rotate: false
   xy: 0, 5824
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Desert3
+TileSets/HexaRealm/Tiles/Barbarian encampmentT
   rotate: false
   xy: 0, 5880
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Flood plains
+TileSets/HexaRealm/Tiles/Canal
   rotate: false
   xy: 0, 5936
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/ForestG
+TileSets/HexaRealm/Tiles/City center
   rotate: false
   xy: 0, 5992
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/ForestGH
+TileSets/HexaRealm/Tiles/Desert+Hill
   rotate: false
   xy: 0, 6048
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/ForestP
+TileSets/HexaRealm/Tiles/Desert+Hill2
   rotate: false
   xy: 0, 6104
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/ForestPH
+TileSets/HexaRealm/Tiles/Desert
   rotate: false
   xy: 0, 6160
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland+Hill
+TileSets/HexaRealm/Tiles/Desert2
   rotate: false
   xy: 0, 6216
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland+Hill2
+TileSets/HexaRealm/Tiles/Desert3
   rotate: false
   xy: 0, 6272
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland
+TileSets/HexaRealm/Tiles/Flood plains
   rotate: false
   xy: 0, 6328
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland2
+TileSets/HexaRealm/Tiles/ForestG
   rotate: false
   xy: 0, 6384
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland3
+TileSets/HexaRealm/Tiles/ForestGH
   rotate: false
   xy: 0, 6440
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/JungleG
+TileSets/HexaRealm/Tiles/ForestP
   rotate: false
   xy: 0, 6496
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/JungleP
+TileSets/HexaRealm/Tiles/ForestPH
   rotate: false
   xy: 0, 6552
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Lakes
+TileSets/HexaRealm/Tiles/Grassland+Hill
   rotate: false
   xy: 0, 6608
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Marsh
+TileSets/HexaRealm/Tiles/Grassland+Hill2
   rotate: false
   xy: 0, 6664
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Mycelium+Forest
+TileSets/HexaRealm/Tiles/Grassland
   rotate: false
   xy: 0, 6720
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Mycelium+Hill+Forest
+TileSets/HexaRealm/Tiles/Grassland2
   rotate: false
   xy: 0, 6776
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Mycelium+Hill
+TileSets/HexaRealm/Tiles/Grassland3
   rotate: false
   xy: 0, 6832
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Mycelium+Jungle
+TileSets/HexaRealm/Tiles/JungleG
   rotate: false
   xy: 0, 6888
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Mycelium
+TileSets/HexaRealm/Tiles/JungleP
   rotate: false
   xy: 0, 6944
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Oasis
+TileSets/HexaRealm/Tiles/Lakes
   rotate: false
   xy: 0, 7000
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains+Hill
+TileSets/HexaRealm/Tiles/Marsh
   rotate: false
   xy: 0, 7056
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains+Hill2
+TileSets/HexaRealm/Tiles/Mycelium+Forest
   rotate: false
   xy: 0, 7112
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains
+TileSets/HexaRealm/Tiles/Mycelium+Hill+Forest
   rotate: false
   xy: 0, 7168
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains2
+TileSets/HexaRealm/Tiles/Mycelium+Hill
   rotate: false
   xy: 0, 7224
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains3
+TileSets/HexaRealm/Tiles/Mycelium+Jungle
   rotate: false
   xy: 0, 7280
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mycelium
+  rotate: false
+  xy: 0, 7336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Oasis
+  rotate: false
+  xy: 0, 7392
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plains+Hill
+  rotate: false
+  xy: 0, 7448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plains+Hill2
+  rotate: false
+  xy: 0, 7504
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plains
+  rotate: false
+  xy: 0, 7560
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plains2
+  rotate: false
+  xy: 0, 7616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plains3
+  rotate: false
+  xy: 0, 7672
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
