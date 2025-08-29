@@ -38,8 +38,10 @@ jobs:
       - name: Generate tilemap and atlas file
         # - shell: 'script -q -e -c "bash {0}"'
         run: |
-          node ./scripts/atlas.js '../Images.Tilesets/TileSets/HexaRealm' '../tilesets-hexarealm.png'
-          node ./scripts/generate_atlas_text.js '../Images.Tilesets/TileSets/HexaRealm' '../tilesets-hexarealm.atlas' 'TileSets/HexaRealm'
+          node ./scripts/atlas.js '../Images.Tilesets/TileSets/HexaRealm/Tiles' '../tilesets-hexarealm-tiles.png'
+          node ./scripts/generate_atlas_text.js '../Images.Tilesets/TileSets/HexaRealm/Tiles' '../tilesets-hexarealm-tiles.atlas' 'TileSets/HexaRealm/Tiles'
+          node ./scripts/atlas.js '../Images.Tilesets/TileSets/HexaRealm/Edges' '../tilesets-hexarealm-edges.png'
+          node ./scripts/generate_atlas_text.js '../Images.Tilesets/TileSets/HexaRealm/Edges' '../tilesets-hexarealm-edges.atlas' 'TileSets/HexaRealm/Edges'
 
       # Step 5: Commit the generated files to the repository
       - name: Commit files
@@ -47,5 +49,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: "chore: Update tilemap for tilesets"
-          file_pattern: tilesets-hexarealm.png tilesets-hexarealm.atlas
+          file_pattern: tilesets-hexarealm-tiles.png tilesets-hexarealm-tiles.atlas tilesets-hexarealm-edges.png tilesets-hexarealm-edges.atlas
 
