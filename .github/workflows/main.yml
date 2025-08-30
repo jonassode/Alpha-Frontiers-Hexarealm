@@ -38,10 +38,8 @@ jobs:
       - name: Generate tilemap and atlas file
         # - shell: 'script -q -e -c "bash {0}"'
         run: |
-          node ./scripts/atlas.js '../Images.Tilesets/TileSets/HexaRealm/Tiles' '../tilesets-hexarealm-tiles.png'
-          node ./scripts/generate_atlas_text.js '../Images.Tilesets/TileSets/HexaRealm/Tiles' '../tilesets-hexarealm-tiles.atlas' 'TileSets/HexaRealm/Tiles'
-          node ./scripts/atlas.js '../Images.Tilesets/TileSets/HexaRealm/Edges' '../tilesets-hexarealm-edges.png'
-          node ./scripts/generate_atlas_text.js '../Images.Tilesets/TileSets/HexaRealm/Edges' '../tilesets-hexarealm-edges.atlas' 'TileSets/HexaRealm/Edges'
+          node ./scripts/generate_atlas_files.js '../Images.Tilesets/TileSets/HexaRealm/Tiles' '../tilesets-hexarealm-tiles.png' '../tilesets-hexarealm-tiles.atlas' 'TileSets/HexaRealm/Tiles'
+          node ./scripts/generate_atlas_files.js '../Images.Tilesets/TileSets/HexaRealm/Edges' '../tilesets-hexarealm-edges.png' '../tilesets-hexarealm-edges.atlas' 'TileSets/HexaRealm/Edges'
 
       # Step 5: Commit the generated files to the repository
       - name: Commit files
