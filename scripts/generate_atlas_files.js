@@ -22,7 +22,7 @@ const outputSpritesheetPath = path.join(__dirname, outputSpritesheetName);
 const outputTextFilePath = path.join(__dirname, outputTextFileName);
 
 // Recommended spritesheet size, typically a power of 2 for better GPU performance
-const MAX_DIMENSION = 4096;
+const MAX_DIMENSION = 2048;
 
 /**
  * Recursively gets all image files from a directory and its subdirectories
