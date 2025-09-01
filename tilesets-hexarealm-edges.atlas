@@ -1,5 +1,5 @@
 tilesets-hexarealm-edges.png
-size: 64, 5768
+size: 4096, 112
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -12,714 +12,714 @@ TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mycelium-Bottom
   index: -1
 TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mycelium-BottomLeft
   rotate: false
-  xy: 0, 56
+  xy: 64, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mycelium-BottomRight
   rotate: false
-  xy: 0, 112
+  xy: 128, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mycelium-Top
   rotate: false
-  xy: 0, 168
+  xy: 192, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mycelium-TopLeft
   rotate: false
-  xy: 0, 224
+  xy: 256, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Beach-Coast/Beach-Coast-Mycelium-TopRight
   rotate: false
-  xy: 0, 280
+  xy: 320, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-Bottom
   rotate: false
-  xy: 0, 336
+  xy: 384, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-BottomLeft
   rotate: false
-  xy: 0, 392
+  xy: 448, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-BottomRight
   rotate: false
-  xy: 0, 448
+  xy: 512, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-Top
   rotate: false
-  xy: 0, 504
+  xy: 576, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-TopLeft
   rotate: false
-  xy: 0, 560
+  xy: 640, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-TopRight
   rotate: false
-  xy: 0, 616
+  xy: 704, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-Bottom
   rotate: false
-  xy: 0, 672
+  xy: 768, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-BottomLeft
   rotate: false
-  xy: 0, 728
+  xy: 832, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-BottomRight
   rotate: false
-  xy: 0, 784
+  xy: 896, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-Top
   rotate: false
-  xy: 0, 840
+  xy: 960, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-TopLeft
   rotate: false
-  xy: 0, 896
+  xy: 1024, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-TopRight
   rotate: false
-  xy: 0, 952
+  xy: 1088, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-Bottom
   rotate: false
-  xy: 0, 1008
+  xy: 1152, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-BottomLeft
   rotate: false
-  xy: 0, 1064
+  xy: 1216, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-BottomRight
   rotate: false
-  xy: 0, 1120
+  xy: 1280, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-Top
   rotate: false
-  xy: 0, 1176
+  xy: 1344, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-TopLeft
   rotate: false
-  xy: 0, 1232
+  xy: 1408, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-TopRight
   rotate: false
-  xy: 0, 1288
+  xy: 1472, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-Bottom
   rotate: false
-  xy: 0, 1344
+  xy: 1536, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-BottomLeft
   rotate: false
-  xy: 0, 1400
+  xy: 1600, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-BottomRight
   rotate: false
-  xy: 0, 1456
+  xy: 1664, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-Top
   rotate: false
-  xy: 0, 1512
+  xy: 1728, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-TopLeft
   rotate: false
-  xy: 0, 1568
+  xy: 1792, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-TopRight
   rotate: false
-  xy: 0, 1624
+  xy: 1856, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-Bottom
   rotate: false
-  xy: 0, 1680
+  xy: 1920, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-BottomLeft
   rotate: false
-  xy: 0, 1736
+  xy: 1984, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-BottomRight
   rotate: false
-  xy: 0, 1792
+  xy: 2048, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-Top
   rotate: false
-  xy: 0, 1848
+  xy: 2112, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-TopLeft
   rotate: false
-  xy: 0, 1904
+  xy: 2176, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-TopRight
   rotate: false
-  xy: 0, 1960
+  xy: 2240, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mycelium-Bottom
   rotate: false
-  xy: 0, 2016
+  xy: 2304, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mycelium-BottomLeft
   rotate: false
-  xy: 0, 2072
+  xy: 2368, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mycelium-BottomRight
   rotate: false
-  xy: 0, 2128
+  xy: 2432, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mycelium-Top
   rotate: false
-  xy: 0, 2184
+  xy: 2496, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mycelium-TopLeft
   rotate: false
-  xy: 0, 2240
+  xy: 2560, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mycelium-TopRight
   rotate: false
-  xy: 0, 2296
+  xy: 2624, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-Bottom
   rotate: false
-  xy: 0, 2352
+  xy: 2688, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-BottomLeft
   rotate: false
-  xy: 0, 2408
+  xy: 2752, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-BottomRight
   rotate: false
-  xy: 0, 2464
+  xy: 2816, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-Top
   rotate: false
-  xy: 0, 2520
+  xy: 2880, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-TopLeft
   rotate: false
-  xy: 0, 2576
+  xy: 2944, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-TopRight
   rotate: false
-  xy: 0, 2632
+  xy: 3008, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-Bottom
   rotate: false
-  xy: 0, 2688
+  xy: 3072, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-BottomLeft
   rotate: false
-  xy: 0, 2744
+  xy: 3136, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-BottomRight
   rotate: false
-  xy: 0, 2800
+  xy: 3200, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-Top
   rotate: false
-  xy: 0, 2856
+  xy: 3264, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-TopLeft
   rotate: false
-  xy: 0, 2912
+  xy: 3328, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-TopRight
   rotate: false
-  xy: 0, 2968
+  xy: 3392, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-Bottom
   rotate: false
-  xy: 0, 3024
+  xy: 3456, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-BottomLeft
   rotate: false
-  xy: 0, 3080
+  xy: 3520, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-BottomRight
   rotate: false
-  xy: 0, 3136
+  xy: 3584, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-Top
   rotate: false
-  xy: 0, 3192
+  xy: 3648, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-TopLeft
   rotate: false
-  xy: 0, 3248
+  xy: 3712, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-TopRight
   rotate: false
-  xy: 0, 3304
+  xy: 3776, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mountain/Fresh-Mountain-Lakes-BottomLeft
   rotate: false
-  xy: 0, 3360
+  xy: 3840, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mountain/Fresh-Mountain-Lakes-BottomRight
   rotate: false
-  xy: 0, 3416
+  xy: 3904, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mountain/Fresh-Mountain-Lakes-Top
   rotate: false
-  xy: 0, 3472
+  xy: 3968, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mountain/Fresh-Mountain-Lakes-TopLeft
   rotate: false
-  xy: 0, 3528
+  xy: 4032, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mountain/Fresh-Mountain-Lakes-TopRight
   rotate: false
-  xy: 0, 3584
+  xy: 0, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mountain/Fresh-Mycelium-Lakes-Bottom
   rotate: false
-  xy: 0, 3640
+  xy: 64, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mycelium/Fresh-Mycelium-Lakes-Bottom
   rotate: false
-  xy: 0, 3696
+  xy: 128, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mycelium/Fresh-Mycelium-Lakes-BottomLeft
   rotate: false
-  xy: 0, 3752
+  xy: 192, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mycelium/Fresh-Mycelium-Lakes-BottomRight
   rotate: false
-  xy: 0, 3808
+  xy: 256, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mycelium/Fresh-Mycelium-Lakes-Top
   rotate: false
-  xy: 0, 3864
+  xy: 320, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mycelium/Fresh-Mycelium-Lakes-TopLeft
   rotate: false
-  xy: 0, 3920
+  xy: 384, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Mycelium/Fresh-Mycelium-Lakes-TopRight
   rotate: false
-  xy: 0, 3976
+  xy: 448, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-Bottom
   rotate: false
-  xy: 0, 4032
+  xy: 512, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-BottomLeft
   rotate: false
-  xy: 0, 4088
+  xy: 576, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-BottomRight
   rotate: false
-  xy: 0, 4144
+  xy: 640, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-Top
   rotate: false
-  xy: 0, 4200
+  xy: 704, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-TopLeft
   rotate: false
-  xy: 0, 4256
+  xy: 768, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-TopRight
   rotate: false
-  xy: 0, 4312
+  xy: 832, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-Bottom
   rotate: false
-  xy: 0, 4368
+  xy: 896, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-BottomLeft
   rotate: false
-  xy: 0, 4424
+  xy: 960, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-BottomRight
   rotate: false
-  xy: 0, 4480
+  xy: 1024, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-Top
   rotate: false
-  xy: 0, 4536
+  xy: 1088, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-TopLeft
   rotate: false
-  xy: 0, 4592
+  xy: 1152, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-TopRight
   rotate: false
-  xy: 0, 4648
+  xy: 1216, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-Bottom
   rotate: false
-  xy: 0, 4704
+  xy: 1280, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-BottomLeft
   rotate: false
-  xy: 0, 4760
+  xy: 1344, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-BottomRight
   rotate: false
-  xy: 0, 4816
+  xy: 1408, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-Top
   rotate: false
-  xy: 0, 4872
+  xy: 1472, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-TopLeft
   rotate: false
-  xy: 0, 4928
+  xy: 1536, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-TopRight
   rotate: false
-  xy: 0, 4984
+  xy: 1600, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Inflow-Canal/Inflow-Canal-Coast-Bottom
   rotate: false
-  xy: 0, 5040
+  xy: 1664, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Inflow-Canal/Inflow-Canal-Coast-BottomLeft
   rotate: false
-  xy: 0, 5096
+  xy: 1728, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Inflow-Canal/Inflow-Canal-Coast-BottomRight
   rotate: false
-  xy: 0, 5152
+  xy: 1792, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Inflow-Canal/Inflow-Canal-Coast-Top
   rotate: false
-  xy: 0, 5208
+  xy: 1856, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Inflow-Canal/Inflow-Canal-Coast-TopLeft
   rotate: false
-  xy: 0, 5264
+  xy: 1920, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Inflow-Canal/Inflow-Canal-Coast-TopRight
   rotate: false
-  xy: 0, 5320
+  xy: 1984, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-Bottom
   rotate: false
-  xy: 0, 5376
+  xy: 2048, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-BottomLeft
   rotate: false
-  xy: 0, 5432
+  xy: 2112, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-BottomRight
   rotate: false
-  xy: 0, 5488
+  xy: 2176, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-Top
   rotate: false
-  xy: 0, 5544
+  xy: 2240, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-TopLeft
   rotate: false
-  xy: 0, 5600
+  xy: 2304, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-TopRight
   rotate: false
-  xy: 0, 5656
+  xy: 2368, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Wall/Wall-Canal-XXX-BottomRight
   rotate: false
-  xy: 0, 5712
+  xy: 2432, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
