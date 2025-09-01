@@ -1,5 +1,5 @@
 tilesets-hexarealm-tiles.png
-size: 2240, 56
+size: 2048, 112
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -229,21 +229,21 @@ TileSets/HexaRealm/Tiles/Plains+Hill2
   index: -1
 TileSets/HexaRealm/Tiles/Plains
   rotate: false
-  xy: 2048, 0
+  xy: 0, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Plains2
   rotate: false
-  xy: 2112, 0
+  xy: 64, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Plains3
   rotate: false
-  xy: 2176, 0
+  xy: 128, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
