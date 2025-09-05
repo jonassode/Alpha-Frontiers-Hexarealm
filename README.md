@@ -18,37 +18,9 @@ The plan is to where possible take the tiles from Unciv and restyle them using t
 
 At the moment I'm not planning on upscaling anything that does work, like resource tiles, but we'll see in the future.
 
-# Progress 
-## Phase 1 - Terrain Tiles
-### Completed
-- Desert, Desert Hill, Oasis, Flood Plains
-- Plains, Plains Hill, w. Forest, w. Jungle
-- Grassland, Grassland Hill, w. Forest, w. Jungle
-- Mycelin, Mycelin Hills
-- Marsh
-- Lakes, 
-- Jungle, Forest on Mycelin, inc Forest Hills
-- Atoll
-- Lake borders
-
-### Planned work
-
-- Tundra, Hills, w. forest
-- Canals and borders
-
-### Phase 1b - Basic buildings
-- City Centre - In progress
-- Barbarian Camp/Xeno Hive - Done
-- Barbarian Camp/Xeno Hive on Snow - Done
-
-## Phase 2 - Land resources
-- Not started
-
-## Phase 3 - Water tiles, including borders and rivers
-- Not started
-
-## Phase 4 - Water resources
-- Not started
-
-## Phase 5 - Remaining buildings/Anything else
-- Not started
+### Phases
+- [Phase 1 - Terrain Tiles ](https://github.com/jonassode/Alpha-Frontiers-Hexarealm/issues/4)
+- [Phase 1b - Basic buildings](https://github.com/jonassode/Alpha-Frontiers-Hexarealm/issues/10)
+- [Phase 2 - Land resources](https://github.com/jonassode/Alpha-Frontiers-Hexarealm/issues/11)
+- Phase 3 - Water tiles, including borders and rivers, perhaps or if I'm happy with the water as is
+- Phase 4 - Remaining buildings/Anything else
