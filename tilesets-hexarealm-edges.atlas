@@ -1,5 +1,5 @@
 tilesets-hexarealm-edges.png
-size: 2048, 224
+size: 2048, 168
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -671,55 +671,6 @@ TileSets/HexaRealm/Edges/Inflow-Canal/Inflow-Canal-Coast-TopLeft
 TileSets/HexaRealm/Edges/Inflow-Canal/Inflow-Canal-Coast-TopRight
   rotate: false
   xy: 1984, 112
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-Bottom
-  rotate: false
-  xy: 0, 168
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-BottomLeft
-  rotate: false
-  xy: 64, 168
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-BottomRight
-  rotate: false
-  xy: 128, 168
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-Top
-  rotate: false
-  xy: 192, 168
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-TopLeft
-  rotate: false
-  xy: 256, 168
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Wall/Wall-Canal-Grassland-TopRight
-  rotate: false
-  xy: 320, 168
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Edges/Wall/Wall-Canal-XXX-BottomRight
-  rotate: false
-  xy: 384, 168
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
