@@ -19,8 +19,10 @@ The plan is to where possible take the tiles from Unciv and restyle them using t
 At the moment I'm not planning on upscaling anything that does work, like resource tiles, but we'll see in the future.
 
 ### Phases
-- [Phase 1 - Terrain Tiles ](https://github.com/jonassode/Alpha-Frontiers-Hexarealm/issues/4)
+- [Phase 1 - Terrain Tiles ](https://github.com/jonassode/Alpha-Frontiers-Hexarealm/issues/4) 
 - [Phase 1b - Basic buildings](https://github.com/jonassode/Alpha-Frontiers-Hexarealm/issues/10)
 - [Phase 2 - Land resources](https://github.com/jonassode/Alpha-Frontiers-Hexarealm/issues/11)
-- Phase 3 - Water tiles, including borders and rivers, perhaps or if I'm happy with the water as is
-- Phase 4 - Remaining buildings/Anything else
+- Phase 3 - Improvements
+- Phase 4 - Natural Wonders
+- Phase 5 - Water tiles, including borders and rivers, perhaps or if I'm happy with the water as is
+- Phase 6 - Remaining buildings/Anything else
