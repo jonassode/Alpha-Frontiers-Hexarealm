@@ -2,7 +2,23 @@
 
 Welcome, and thank you for your interest in contributing to **Alpha-Frontiers-Hexarealm**!
 
-## We Need Pixel Artists!
+There are several ways you can contribute and help the project
+
+## 1. Star the project on GitHub
+
+This might sound trivial but it really helps other find the projec and spread the joy
+
+## 2. Play and raise issue
+
+Play Alpha Frontiers with Hexarealm installed, have fun.
+
+If you see anything that doesn't look good, raise an issue
+
+Please don't raise issues for things that haven't been implemented, very likely it's on the backlog 
+
+Please only raise issues for things that have been implemented but is not working as expected or look strange
+
+## 3. Contribute pixel art
 
 Are you passionate about pixel art? Do you want to see your creative work featured in a strategy game? We're looking for talented pixel artists to help us create and improve the visual assets of Alpha-Frontiers-Hexarealm.
 
