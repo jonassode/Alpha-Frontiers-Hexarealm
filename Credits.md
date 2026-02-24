@@ -17,7 +17,7 @@ Many images in this tileset are derived from the [Unciv](https://github.com/yair
 
 The original Unciv HexaRealm tileset is available at: https://github.com/yairm210/Unciv
 
-**Specific Attribution:** HexaRealm tileset by The Bucketeer (@GeneralWadaling), licensed under CC-BY 3.0.
+**Specific Attribution:** HexaRealm tileset by The Bucketeer (@GeneralWadaling), licensed under [CC-BY 3.0.](https://creativecommons.org/licenses/by/3.0/).
 
 ### Alpha Frontiers FantasyHex
 
