@@ -16,11 +16,11 @@ If you see anything that doesn't look good, raise an issue
 
 Please don't raise issues for things that haven't been implemented, very likely it's on the backlog 
 
-Please only raise issues for things that have been implemented but is not working as expected or look strange
+Only raise issues for things that have been implemented but is not working as expected or look strange
 
 ## 3. Contribute pixel art
 
-Are you passionate about pixel art? Do you want to see your creative work featured in a strategy game? We're looking for talented pixel artists to help us create and improve the visual assets of Alpha-Frontiers-Hexarealm.
+Are you passionate about pixel art? Do you want to see your creative work featured in a strategy game? I'm looking for talented pixel artists to help us create and improve the visual assets of Alpha-Frontiers-Hexarealm.
 
 ### What We're Looking For
 
