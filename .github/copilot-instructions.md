@@ -11,9 +11,9 @@ All images in this project must adhere to the following specifications:
 - **All images must have a transparent background**
 
 ### Style
-- **All images must have a pixelated style that matches the Unciv Hexarealm tileset**
+- **All images must have a pixelated style that matches the Unciv HexaRealm tileset**
 - Maintain consistency with existing HexaRealm tileset assets
 - Follow the sci-fi aesthetic appropriate for an alien planet colonization theme
-- Keep pixel art style consistent with the base Unciv Hexarealm tileset
+- Keep pixel art style consistent with the base Unciv HexaRealm tileset
 
 These requirements ensure visual consistency across all game assets and proper integration with the Unciv game engine.
