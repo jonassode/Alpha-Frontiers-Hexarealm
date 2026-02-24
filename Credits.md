@@ -11,7 +11,8 @@
 Many images in this tileset are derived from the [Unciv](https://github.com/yairm210/Unciv) HexaRealm tileset:
 
 - Some images are used directly without modification
-- Some images have been modified with new color schemes inspired by Alpha Frontiers
+- Some images have been modified with new color schemes and/or designs inspired by Alpha Frontiers
+- Some images created from scratch
 - All adapted images maintain the original HexaRealm pixel art style
 
 The original Unciv HexaRealm tileset is available at: https://github.com/yairm210/Unciv
