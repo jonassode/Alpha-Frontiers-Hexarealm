@@ -26,3 +26,7 @@ At the moment I'm not planning on upscaling anything that does work, like resour
 - Phase 4 - Natural Wonders
 - Phase 5 - Water tiles, including borders and rivers, perhaps or if I'm happy with the water as is
 - Phase 6 - Remaining buildings/Anything else
+
+## Credits
+
+For image attribution and project credits, see [Credits.md](Credits.md).
