@@ -1,0 +1,4 @@
+# Node.js dependencies (installed fresh in CI)
+node_modules/
+package-lock.json
+package.json
